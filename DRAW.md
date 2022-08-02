@@ -6,5 +6,5 @@ Customer
         - roles
         - permissions
     - projects
-        - project x
+        - project x (token tem UUID)
             - files
